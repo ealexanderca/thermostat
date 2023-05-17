@@ -19,7 +19,7 @@ Once the script has been deployed copy the script ID for later.
 ## NodeMCU Code
 To program the NodeMCU download and copy the files linked in the [Requirements.txt](https://raw.githubusercontent.com/ealexanderca/thermostat/main/Requirements.txt) into your arduino libraries file. Download and configure the [thermoWeb.ino](https://raw.githubusercontent.com/ealexanderca/thermostat/main/thermoWeb/thermoWeb.ino) script entering your WiFi information and the script ID from earlier. Once those edits have been made the NodeMCU can be flashed and is ready to be deployed.
 
-## Pin Outs
+## Pin Out
 The basic pin assignment to hook up all the components is shown in the table below.
 
 | NodeMCU | 1.54inch e-Paper Module | DHT11 | Relay  | Heater |
