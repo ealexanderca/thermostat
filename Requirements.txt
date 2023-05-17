@@ -1,6 +1,6 @@
 # Libraries
 https://github.com/jbuszkie/HTTPSRedirect
-https://github.com/Bodmer/EPD_Libraries/tree/master/epd1in54
+https://github.com/Bodmer/EPD_Libraries/tree/master/
 https://github.com/arduino-libraries/NTPClient
 https://github.com/adidax/dht11
 https://github.com/arduino-libraries/WiFiNINA
