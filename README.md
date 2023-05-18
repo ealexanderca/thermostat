@@ -14,7 +14,9 @@ To setup the temperature schedule all you need to do is create a google calendar
 
 ## Google Script Setup
 To setup the google script go to [script.google.com](https://script.google.com/) and sign in with your google account. Create a new project and copy the contents of [googleScript.gs](https://raw.githubusercontent.com/ealexanderca/thermostat/main/googleScript.gs) into it altering the calendar name to match what you chose above. Deploy the project selecting web app and ensuring that its set to run as me and anyone can use it as shown below.
+
 <img src=https://raw.githubusercontent.com/ealexanderca/thermostat/main/extras/Calendar.png alt='missing'>
+
 Once the script has been deployed copy the script ID for later.
 
 ## NodeMCU Code
