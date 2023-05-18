@@ -9,6 +9,7 @@ The current version of this thermostat pulls the temperature from a google calen
 
 ## Calendar Setup and Use
 To setup the temperature schedule all you need to do is create a google calendar with titles equal to the target temperature. If you to overide the temperature for a day you can create an all day event. to disable the temperature control set the values to -999 and it will comepletely disable the device.
+
 <img src=https://raw.githubusercontent.com/ealexanderca/thermostat/main/extras/GSconfig.png alt='missing' style="width: 400px">
 
 ## Google Script Setup
